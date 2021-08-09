@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WyndamBaxter programming student, mathematician and music producer.
 - 👀 I’m interested in consolidating myself as a programmer taking this as a profession for life. 
-- 🌱 I’m currently learning Java, Python, Angular 8 and Flutter
+- 🌱 I’m currently learning HTML, CSS Angular 8 and Flutter
 - 💞️ I’m looking to collaborate evolving and developing, generating value for me and the market, contributing to the community and learning from it. 
 - 📫 How to reach me: wynbax@gmail.com
 
