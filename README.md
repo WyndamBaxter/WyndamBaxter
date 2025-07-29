@@ -1,6 +1,6 @@
 # Olá, eu sou  Wyndam Baxter! 👋
 
-Sou um  estudante de engenharia de dados e Inteligencia artificial [Sua Área de Atuação, ex: Desenvolvedor Front-end, Engenheiro de Dados, Estudante de Ciência da Computação] apaixonado por soluções criatívas e projetos inovadores, gosto de explorar novas tecnologias.
+Sou um  estudante de engenharia de dados com objetivo em Inteligencia artificial [Sua Área de Atuação, ex: Desenvolvedor Front-end, Engenheiro de Dados, Estudante de Ciência da Computação] apaixonado por soluções criatívas e projetos inovadores, gosto de explorar novas tecnologias.
 
 ---
 
