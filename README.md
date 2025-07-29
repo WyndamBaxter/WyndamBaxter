@@ -17,14 +17,14 @@ Meu objetivo é construir soluções inovadoras, contribuir para projetos open s
 | Categoria      | Habilidades                                       |
 | :------------- | :------------------------------------------------ |
 | Linguagens    | `Python` |
-| Ferramentas    | `Git`   |      |
+| Ferramentas    | `Git`   |      
 
 
 ---
 
 ### 📬 Como me encontrar
 
-* **LinkedIn:**(https://www.linkedin.com/in/wyndam-baxter/))
+* **LinkedIn:**(https://www.linkedin.com/in/wyndam-baxter/)
 * **Email:**(wynbax@gmail.com)
 
 ---
